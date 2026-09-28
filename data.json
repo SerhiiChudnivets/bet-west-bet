@@ -75,22 +75,19 @@
         {
           "link": "/play/",
           "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "Welcome Bonus 100% up to $1,500 + 350 FS",
-          "Name": "Welcome Bonus 100% up to $1,500 + 350 FS",
+          "name": "Welkomstbonus van 100% tot €1.000 + 350 gratis spins",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
-          "name": "Weekly Deposit 50% up to $500",
-          "Name": "Weekly Deposit 50% up to $500",
+          "name": "Wekelijkse storting: 50% tot maximaal €500",
           "logo_alt": "Exclusive Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
-          "name": "Loyalty Cashback up to 15%",
-          "Name": "Loyalty Cashback up to 15%",
+          "name": "Loyaliteitskorting tot 15%",
           "logo_alt": "Weekly Bonus"
         }
       ],
@@ -104,11 +101,11 @@
           "question": "Hoe lang duurt de verificatie van documenten?"
         },
         {
-          "answer": "Je kunt je tijdens de registratiefase aanmelden voor de welkomstaanbieding of deze selecteren in het kassagedeelte van je account onder ‘Beschikbare bonussen’ voordat je je eerste in aanmerking komende storting van € 20 of meer bevestigt.",
+          "answer": "Je kunt je tijdens de registratiefase aanmelden voor de welkomstaanbieding of deze selecteren in het kassagedeelte van je account onder ‘Beschikbare bonussen’ voordat je je eerste in aanmerking komende storting van €20 of meer bevestigt.",
           "question": "Hoe activeer ik de welkomstbonus van Betwest Casino?"
         },
         {
-          "answer": "De minimale opnamelimiet begint bij € 20 voor creditcards, e-wallets en cryptovaluta’s, en bij € 50 voor standaard directe bankoverschrijvingen.",
+          "answer": "De minimale opnamelimiet begint bij €20 voor creditcards, e-wallets en cryptovaluta’s, en bij €50 voor standaard directe bankoverschrijvingen.",
           "question": "Wat is de minimale opnamelimiet bij Betwest?"
         },
         {
@@ -480,10 +477,10 @@
       "question": "Is Betwest Casino accessible on mobile devices?"
     }
   ],
-  "_generated_at": "2026-09-28T12:17:33.471Z",
+  "_generated_at": "2026-09-28T12:41:59.634Z",
   "_version": "1.0.0",
   "html_head_alt": "betwest baner",
   "content_alt": "betwest bonus",
-  "_last_deploy": "2026-09-28T12:17:34.432Z",
-  "_deploy_trigger": "m6wdtw"
+  "_last_deploy": "2026-09-28T12:42:00.588Z",
+  "_deploy_trigger": "omv8pp"
 }
