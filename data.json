@@ -24,7 +24,7 @@
       "heroSubtitle": "Welcome Package",
       "heroBadge": "BetWest – New Player Bonus",
       "ctaText": "Play Now",
-      "tagline": "100% up to £800 + 350 Free Spins",
+      "tagline": "100% up to £800 + 350 FS",
       "heroImage": "/uploads/c2e7ab0cabf09ef3230203dadacc8d13.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -150,7 +150,7 @@
       "heroSubtitle": "Welcome Package",
       "heroBadge": "BetWest – New Player Bonus",
       "ctaText": "Play Now",
-      "tagline": "100% up to C$1,500 + 350 Free Spins",
+      "tagline": "100% up to C$1,500 + 350 FS",
       "heroImage": "/uploads/c2e7ab0cabf09ef3230203dadacc8d13.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -276,7 +276,7 @@
       "heroSubtitle": "Welkomstpakket",
       "heroBadge": "BetWest – Welkomstbonus voor nieuwe spelers",
       "ctaText": "Nu spelen",
-      "tagline": "100% tot €1.000 + 350 Gratis Spins",
+      "tagline": "100% tot €1.000 + 350 GS",
       "heroImage": "/uploads/c2e7ab0cabf09ef3230203dadacc8d13.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -402,7 +402,7 @@
       "heroSubtitle": "Paquete de bienvenida",
       "heroBadge": "BetWest – Bono de bienvenida para nuevos jugadores",
       "ctaText": "Jugar ahora",
-      "tagline": "100% hasta 1.000€ + 350 tiradas gratis",
+      "tagline": "100% hasta 1.000€ + 350 TG",
       "heroImage": "/uploads/c2e7ab0cabf09ef3230203dadacc8d13.webp",
       "template": "homepage",
       "isHomepage": false,
@@ -744,9 +744,9 @@
       "question": "Is Betwest Casino accessible on mobile devices?"
     }
   ],
-  "_generated_at": "2026-10-07T10:06:25.422Z",
+  "_generated_at": "2026-10-07T10:45:33.908Z",
   "_version": "1.0.0",
   "content_alt": "betwest bonus",
-  "_last_deploy": "2026-10-07T10:06:26.019Z",
-  "_deploy_trigger": "oeqxgf"
+  "_last_deploy": "2026-10-07T10:45:34.737Z",
+  "_deploy_trigger": "xv3tj"
 }
