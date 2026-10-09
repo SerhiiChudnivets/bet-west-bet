@@ -327,7 +327,7 @@
         {
           "link": "/play/",
           "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "Welkomstbonus van 100% tot €1.000 + 350 gratis spins",
+          "name": "Welkomstbonus van 100% tot €1.000 + 350 GS",
           "logo_alt": "Welcome Bonus"
         },
         {
@@ -453,7 +453,7 @@
         {
           "link": "",
           "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "Bono de bienvenida del 100% hasta 1.000€ + 350 tiradas gratis",
+          "name": "Bono de bienvenida del 100% hasta 1.000€ + 350 TS",
           "logo_alt": "Welcome Bonus"
         },
         {
@@ -744,9 +744,9 @@
       "question": "Is Betwest Casino accessible on mobile devices?"
     }
   ],
-  "_generated_at": "2026-10-09T12:15:15.222Z",
+  "_generated_at": "2026-10-09T12:17:36.706Z",
   "_version": "1.0.0",
   "content_alt": "betwest bonus",
-  "_last_deploy": "2026-10-09T12:15:15.867Z",
-  "_deploy_trigger": "lhn17k"
+  "_last_deploy": "2026-10-09T12:17:37.308Z",
+  "_deploy_trigger": "5zv2k8"
 }
