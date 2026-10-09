@@ -31,7 +31,7 @@
       "order": 0,
       "lang": "en-GB",
       "faqTitle": "FAQ",
-      "popupText": "Bonus 100% up to £800 + 350 FS",
+      "popupText": "100% up to £800 + 350 FS",
       "popupLogo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "sections": null,
       "slots": [
@@ -129,7 +129,7 @@
       "faq_title": "FAQ",
       "hero_badge": "BetWest – New Player Bonus",
       "cta_text": "Play Now",
-      "popup_text": "Bonus 100% up to €1.000 + 350 FS",
+      "popup_text": "100% up to €1.000 + 350 FS",
       "popup_logo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "content_alt": "betwest bonus",
       "heroImage_alt": "betwest baner",
@@ -157,7 +157,7 @@
       "order": 0,
       "lang": "en-CA",
       "faqTitle": "FAQ",
-      "popupText": "Bonus 100% up to C$1,500 + 350 FS",
+      "popupText": "100% up to C$1,500 + 350 FS",
       "popupLogo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "sections": null,
       "slots": [
@@ -255,7 +255,7 @@
       "faq_title": "FAQ",
       "hero_badge": "BetWest – New Player Bonus",
       "cta_text": "Play Now",
-      "popup_text": "Bonus 100% up to €1.000 + 350 FS",
+      "popup_text": "100% up to €1.000 + 350 FS",
       "popup_logo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "content_alt": "betwest bonus",
       "heroImage_alt": "betwest baner",
@@ -283,7 +283,7 @@
       "order": 0,
       "lang": "nl-NL",
       "faqTitle": "FAQ",
-      "popupText": "Bonus 100% tot €1.000 + 350 FS",
+      "popupText": "100% tot €1.000 + 350 FS",
       "popupLogo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "sections": null,
       "slots": [
@@ -381,7 +381,7 @@
       "faq_title": "FAQ",
       "hero_badge": "BetWest – New Player Bonus",
       "cta_text": "Play Now",
-      "popup_text": "Bonus 100% up to €1.000 + 350 FS",
+      "popup_text": "100% up to €1.000 + 350 FS",
       "popup_logo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "content_alt": "betwest bonus",
       "heroImage_alt": "betwest baner",
@@ -409,7 +409,7 @@
       "order": 0,
       "lang": "es-ES",
       "faqTitle": "FAQ",
-      "popupText": "Bono del 100% hasta 1.000€ + 350 FS",
+      "popupText": "100% hasta 1.000€ + 350 TG",
       "popupLogo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "sections": null,
       "slots": [
@@ -507,7 +507,7 @@
       "faq_title": "FAQ",
       "hero_badge": "BetWest – New Player Bonus",
       "cta_text": "Play Now",
-      "popup_text": "Bonus 100% up to €1.000 + 350 FS",
+      "popup_text": "100% up to €1.000 + 350 FS",
       "popup_logo": "/uploads/6cb5785a7a140c64e62bc628885fe6d3.webp",
       "content_alt": "betwest bonus",
       "heroImage_alt": "betwest baner",
@@ -571,7 +571,7 @@
   "tagline": "100% up to €1.000 + 350 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. BetWest Casino. All rights reserved",
-  "popup_text": "Bonus 100% up to €1.000 + 350 FS",
+  "popup_text": "100% up to €1.000 + 350 FS",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Register",
@@ -744,9 +744,9 @@
       "question": "Is Betwest Casino accessible on mobile devices?"
     }
   ],
-  "_generated_at": "2026-10-09T12:05:25.286Z",
+  "_generated_at": "2026-10-09T12:13:34.917Z",
   "_version": "1.0.0",
   "content_alt": "betwest bonus",
-  "_last_deploy": "2026-10-09T12:05:26.001Z",
-  "_deploy_trigger": "hwxg3q"
+  "_last_deploy": "2026-10-09T12:13:35.566Z",
+  "_deploy_trigger": "gjv38"
 }
